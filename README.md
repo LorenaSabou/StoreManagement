@@ -20,12 +20,18 @@ application will allow the user to:
 a. See the trench coats in the database, having a given size, one by one. If the size is empty, then
 all the trench coats will be considered. When the user chooses this option, the data of the first
 trench coat (size, colour, price, quantity) is displayed, along with its photograph.
+
+
 b. Choose to add the trench to the shopping basket. In this case, the price is added to the total sum
 the user has to pay. The total sum will be shown after each purchase.
+
+
 c. Choose not to add the trench coat to the basket and to continue to the next. In this case, the
 information corresponding to the next trench coat is shown and the user is again offered the
 possibility to buy it. This can continue as long as the user wants, as when arriving to the end of
 the list, if the user chooses next, the application will again show the first trench coat.
+
+
 d. See the shopping basket and the total price of the items.
 
 EXTRA REQUIREMENTS:
